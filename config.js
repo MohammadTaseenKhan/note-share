@@ -8,10 +8,7 @@ module.exports = {
   postsPerPage: 5, // Required
   social: {
     website: 'https://md-taseen-khan.vercel.app/',
-    //github: '#',
-    facebook: 'https://www.facebook.com/MDTaseenKhanBD/',
     twitter: 'https://twitter.com/MDTaseenKhan',
-    //linkedin: '#',
   },
   pathPrefix: '/devblog',
   siteUrl: 'https://note-share.vercel.app/',
