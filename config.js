@@ -10,6 +10,6 @@ module.exports = {
     website: 'https://md-taseen-khan.vercel.app/',
     twitter: 'https://twitter.com/MDTaseenKhan',
   },
-  pathPrefix: '/devblog',
+  pathPrefix: './',
   siteUrl: 'https://note-share.vercel.app/',
 };
