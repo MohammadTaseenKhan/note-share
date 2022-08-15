@@ -5,7 +5,7 @@ module.exports = {
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
-  postsPerPage: 5, // Required
+  postsPerPage: 10, // Required
   social: {
     website: 'https://md-taseen-khan.vercel.app/',
     twitter: 'https://twitter.com/MDTaseenKhan',
